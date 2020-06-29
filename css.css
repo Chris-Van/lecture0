@@ -1,0 +1,23 @@
+ul {
+  background-color: lightblue;
+}
+
+ul a {
+  color: darkblue;
+}
+
+p, .p2 {
+  color: darkblue;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  padding-top: 8px;
+}
+
+.p2 {
+  color: blue;
+}
+/*# sourceMappingURL=css.css.map */
